@@ -9,7 +9,7 @@ If you wanna try my project, you can download and log in with:
 User: admin
 Password: admin
 
-
 With these credentials, you can edit, delete or update the results.
 
+Moreover, you can create another user without admin permissions to see the differences.
 Enjoy!
