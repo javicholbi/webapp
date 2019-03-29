@@ -15,7 +15,7 @@
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
-    <link href="css/shop-homepage.css" rel="stylesheet">
+    <link href="css/homepage.css" rel="stylesheet">
     <link href="css/modal-login.css" rel="stylesheet">
     <script src="modal-login.js"></script>
     <script type="text/javascript" src="js/categories.js"></script>
