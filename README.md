@@ -1,4 +1,4 @@
-#Classification App
+#Moto GP Classification App
 
 This web app is a project created during my Mobility for the Course Web Applications Technologies in AGH University of Science and Technology.
 Writed in HTML5, PHP, CSS3,  JS and MySQL.
